@@ -31,7 +31,8 @@ python time_window_selection.py
 ```
 JetBrains-Internship-task/
 │
-├── .gitignore               # Git ignore file (virtual envs, caches, generated output)
+├── .gitignore               # Git ignore file
+├── ToolWindow_report.pdf    # Report of finding and analysis
 ├── main.py                  # Executes data transformation and outputs most of the visualizations and statistics used 
 ├── time_window_selection.py # Creates dataframes, for diffrent time_windows, and outputs into generated/csv/time_window_analysis.csv 
 ├── requirements.txt         # Python dependencies
